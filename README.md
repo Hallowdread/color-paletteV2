@@ -1,6 +1,10 @@
 # color-paletteV2
 
-Typescript Version the Color Palette Made With Javascript : https://github.com/Hallowdread/color-palette
+Typescript Version the Color Palette Made With Javascript : https://github.com/Hallowdread/color-palette....
+
+## chroma.ts Documentation
+
+https://www.npmjs.com/package/chroma.ts
 
 ## Demo
 
@@ -71,7 +75,3 @@ color-paletteV2/
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any bug fixes or enhancements.
-
-## chroma.ts Documentation
-
-https://www.npmjs.com/package/chroma.ts?activeTab=readme
